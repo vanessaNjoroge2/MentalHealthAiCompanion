@@ -5,6 +5,12 @@ The system helps users track their moods, interact with an AI chatbot for emotio
 
 ---
 
+## 🌐 Live Demo
+
+👉 [MentalHealth AI Companion](https://mentalhealthaicompanion-1.onrender.com)
+
+---
+
 ## 🚀 Features
 
 - ✅ **User Authentication** – Secure signup/login with JWT authentication
